@@ -1,0 +1,6 @@
+leiras,kategoria
+Ingyen szabadulhatsz a börtönből,szabadsag
+Lépj a Rejtély- és Misztériumügyi Főosztály mezőre,lepj
+Szerencse!! Szükség szobájában találtál 10000 Galleont,penz
+Tévedés történt a Gringottsban!! Kapsz 5000 Galleont,gringotts
+Lépj a saját házad mezőjére és gyűjtsd be az érte járó jutalmat,hazra
