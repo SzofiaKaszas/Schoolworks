@@ -1,0 +1,41 @@
+mezoszam,oszlop,sor,nev,ar,alapfizu,tipus
+21,1,1,Kvidiccs pálya,0,0,kvidiccs,
+22,2,1,Ollivander pálcaboltja,22000,1800,abszol út
+23,3,1,Felix felicis,0,0,szerencse
+24,4,1,Weasley Varázsvicc Vállalat,22000,1800,abszol út
+25,5,1,Gringotts,24000,2000,abszol út
+26,6,1,Mardekár ház,0,0,ház
+27,7,1,Mézesfalás,26000,2200,roxmorts
+28,8,1,Három Seprű,26000,2200,roxmorts
+29,9,1,Hoppanálás,0,0,hoppanálás
+30,10,1,Szárnyas Vadkan,28000,2400,roxmorts
+31,11,1,Dementorok,0,0,iránybörtön
+20,1,2,Az Odú,20000,1600,fontos hely
+32,11,2,Gyengélkedő,30000,2600,roxfort
+19,1,3,Szellemszállás,18000,1400,fontos hely
+33,11,3,Hisztis Myrtle mosdója,30000,2600,roxfort
+18,1,4,Nimbus 2000,0,0,seprű
+34,11,4,Merengő,0,0,merengő
+17,1,5,Godric’s Hollow,18000,1400,fontos hely
+35,11,5,Titkok kamrája,32000,2800,roxfort
+16,1,6,Hugrabug ház,0,0,ház
+36,11,6,Hollóhát ház,0,0,ház
+15,1,7,Fúriafűz,16000,1200,roxfort közeli
+37,11,7,Felix felicis,0,0,szerencse
+14,1,8,Szükség szobája,14000,1000,roxfort közeli
+38,11,8,Mágiaügyi Minisztérium,35000,3500,minisztérium
+13,1,9,Hoppanálás,0,0,hoppanálás
+39,11,9,Sárkány,0,20000,sárkány
+12,1,10,Hagrid kunyhója,14000,1000,roxfort közeli
+40,11,10,Rejtély- és Misztériumügyi Főosztály,40000,5000,minisztérium
+11,1,11,Azkaban,0,0,börtön
+10,2,11,Szent Mungo,12000,800,minisztériumi irányítás
+9,3,11,Kagylólak,10000,600,minisztériumi irányítás
+8,4,11,Felix felicis,0,0,szerencse
+7,5,11,Grimmauld tér 12,10000,600,minisztériumi irányítás
+6,6,11,Griffendél ház,0,0,ház
+5,7,11,Troll,0,10000,troll
+4,8,11,9 és 3/4 vágány,6000,400,muglik
+3,9,11,Nimbus 2000,0,0,seprű
+2,10,11,Privet Drive 4,6000,200,muglik
+1,11,11,Start,0,0,start
