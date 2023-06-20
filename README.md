@@ -1,2 +1,2 @@
 # Schoolworks
-This repository contains every code I did in school
+This repository contains the most interesting codes I did in school
