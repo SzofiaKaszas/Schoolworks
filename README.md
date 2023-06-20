@@ -1,2 +1,4 @@
 # Schoolworks
-This repository contains every code I did in school
+<b>This is a Harry Potter themed terminal Monopoly game.</b>
+  Its in Hungarian. 
+  It's written in python programing language.
