@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center; 
+}
+.keret{
+    width: 800px;
+    background-color: #395B64;
+    margin: auto;
+    padding: 20px;
+
+}
+.konyvkeret{
+    background-color: #A5C9CA;
+    border: #2C3333 solid 2px;
+    padding: 10px;
+    display: block;
+    overflow: hidden;
+    margin-bottom: 20px;
+   
+}
+.kepek{
+    width: 100px;
+    border: #2C3333 solid 1px;
+    float: left;
+    margin-right: 10px;
+    
+    
+}
+.szerzo{
+    font-weight: bold;
+    font-size: large;
+
+}
+.cim{
+    text-transform: uppercase;
+
+}
+.kiado{
+    font-style: italic;
+
+}
+.leiras{
+    text-align: justify;
+}
+.kiemel{
+    font-weight: bold;
+    
+}
+.elv{
+    width: 100%;
+    display: block;
+    overflow: hidden;
+ 
+}
